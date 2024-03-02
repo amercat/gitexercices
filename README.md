@@ -2,4 +2,4 @@
 
 ![Alt text](docs/assets/screenshot1.png "Optional title")
 
-This lesson is about how to use nosql with mongodb
+This lesson is about how to use nosql and mongodb
